@@ -51,7 +51,7 @@ const App = () => {
       <div className="fixed top-0 left-0 w-full z-50 bg-[#0f0f0f]/90 backdrop-blur-md shadow-md border-b border-gray-800">
         <div className="flex flex-col sm:flex-row justify-between items-center px-5 py-4 gap-3 max-w-6xl mx-auto">
           <h1 className="text-2xl md:text-3xl font-bold text-amber-400">
-            📸 Masonry Gallery
+            📸 Apni Infinite Gallery
           </h1>
 
           {/* Search Bar */}
