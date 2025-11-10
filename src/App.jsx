@@ -65,7 +65,6 @@ const App = () => {
         </div>
       </div>
 
-      {/* Padding to avoid overlap */}
       <div className="pt-28 px-4">
         {/* MASONRY GRID */}
         <div className="columns-2 sm:columns-3 md:columns-4 lg:columns-5 gap-4 space-y-4">
